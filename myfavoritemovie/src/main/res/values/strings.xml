@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyFavoriteMovie</string>
+    <string name="popularity">popularity</string>
+    <string name="vote">2.643643</string>
+    <string name="overview">just overview</string>
+    <string name="title">captain commando</string>
+    <string name="release">2-15-2018</string>
+</resources>

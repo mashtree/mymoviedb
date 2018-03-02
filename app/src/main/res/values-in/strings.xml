@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TheMovieDB</string>
+    <string name="cari">Cari</string>
+    <string name="top_title">Pencarian Film</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Buka Menu Navigasi</string>
+    <string name="navigation_drawer_close">Tutup Menu Navigasi</string>
+
+    <string name="action_settings">Pengaturan Bahasa</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="now_playing_fragment">Now Playing fragment</string>
+
+    <!-- Drawer Menu -->
+    <string name="menu_import">Impor</string>
+    <string name="menu_gallery">Galery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Perangkat</string>
+
+    <string name="menu_upcoming">Akan Datang</string>
+    <string name="menu_now_playing">Sedang Diputar</string>
+    <string name="menu_find">Cari Film</string>
+
+    <string name="menu_share" >Bagikan</string>
+    <string name="menu_send" >Kirim</string>
+
+    <!-- Nav Header -->
+    <string name="nav_title">Android Studio</string>
+    <string name="nav_email">triyonoaja@gmail.com</string>
+
+    <string name="favorite">Favorit</string>
+    <string name="share">Bagikan</string>
+    <string name="with_cardview">Tampilan Kartu</string>
+    <string name="list_view">Tampilan Daftar</string>
+</resources>

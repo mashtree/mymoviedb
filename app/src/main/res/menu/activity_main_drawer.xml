@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Movie">
+        <menu>
+            <item
+                android:id="@+id/ic_menu_upcoming"
+                android:icon="@drawable/ic_local_movies_black_24dp"
+                android:title="@string/menu_upcoming"/>
+            <item
+                android:id="@+id/ic_menu_now_playing"
+                android:icon="@drawable/ic_play_circle_filled_black_24dp"
+                android:title="@string/menu_now_playing"/>
+            <item
+                android:id="@+id/ic_menu_search"
+                android:icon="@drawable/ic_search_black_24dp"
+                android:title="@string/menu_find"/>
+            <item
+                android:id="@+id/ic_menu_favorite"
+                android:icon="@drawable/ic_star_black_24dp"
+                android:title="@string/favorite"/>
+        </menu>
+    </item>
+
+    <!--<item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/menu_share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/menu_send" />
+        </menu>
+    </item>-->
+
+</menu>
